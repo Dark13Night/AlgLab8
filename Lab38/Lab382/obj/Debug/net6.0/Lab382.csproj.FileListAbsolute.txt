@@ -1,0 +1,14 @@
+D:\Labs\Lab38\Lab382\bin\Debug\net6.0\Lab382.exe
+D:\Labs\Lab38\Lab382\bin\Debug\net6.0\Lab382.deps.json
+D:\Labs\Lab38\Lab382\bin\Debug\net6.0\Lab382.runtimeconfig.json
+D:\Labs\Lab38\Lab382\bin\Debug\net6.0\Lab382.dll
+D:\Labs\Lab38\Lab382\bin\Debug\net6.0\Lab382.pdb
+D:\Labs\Lab38\Lab382\obj\Debug\net6.0\Lab382.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\Lab38\Lab382\obj\Debug\net6.0\Lab382.AssemblyInfoInputs.cache
+D:\Labs\Lab38\Lab382\obj\Debug\net6.0\Lab382.AssemblyInfo.cs
+D:\Labs\Lab38\Lab382\obj\Debug\net6.0\Lab382.csproj.CoreCompileInputs.cache
+D:\Labs\Lab38\Lab382\obj\Debug\net6.0\Lab382.dll
+D:\Labs\Lab38\Lab382\obj\Debug\net6.0\refint\Lab382.dll
+D:\Labs\Lab38\Lab382\obj\Debug\net6.0\Lab382.pdb
+D:\Labs\Lab38\Lab382\obj\Debug\net6.0\Lab382.genruntimeconfig.cache
+D:\Labs\Lab38\Lab382\obj\Debug\net6.0\ref\Lab382.dll
